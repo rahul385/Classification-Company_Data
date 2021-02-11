@@ -16,7 +16,7 @@ The objective of this project is to train a machine learning model to classify n
 
 ## File Descriptions <a name="files"></a>
 
-* `CompanyData.ipynb` : The jupyter notebook [Iris.ipynb](https://github.com/rahul385/Classification-Company_Data/blob/master/Iris.ipynb) includes data exploration, code, machine learning model and visualizations. I used the K Means algorithm to train the model and found the best accuracy for K=23.
+* `CompanyData.ipynb` : The jupyter notebook [CompanyData.ipynb](https://github.com/rahul385/Classification-Company_Data/blob/master/CompanyData.ipynb) includes data exploration, code, machine learning model and visualizations. I used the K Means algorithm to train the model and found the best accuracy for K=23.
 
 * `CompanyData_Profile_Report.html` : Profiling report of the data set
 
