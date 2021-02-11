@@ -12,19 +12,23 @@ All the librarires required to run the code are mentioned in [requirements.txt](
 
 ## Project Overview<a name="project"></a>
 
-The objective of this project was to train a machine learning model to classify new instances to a target class using K Means algorithm, based on the input features of a company's classified data.
+The objective of this project is to train a machine learning model to classify new instances to a target class, based on the input features of a company's classified data. I have used K Means algorithm for this project.
 
 ## File Descriptions <a name="files"></a>
 
-* `CompanyData.ipynb` : The Jupyter notebook that includes data exploration, code and visualizations.
+* `CompanyData.ipynb` : The jupyter notebook [Iris.ipynb](https://github.com/rahul385/Classification-Company_Data/blob/master/Iris.ipynb) includes data exploration, code, machine learning model and visualizations. I used the K Means algorithm to train the model and found the best accuracy for K=23.
+
 * `CompanyData_Profile_Report.html` : Profiling report of the data set
+
 * `Classified Data.csv` : csv file contaning company's classified data
+
 * Visualizations: Includes all plots generated from the training data
    * `ErrorRate_Vs_Kvalue.png` : Error rate with different K values
 
 ## Screenshots
 
-  ***Screenshot 1: Error Rate and K value***
+  ***Error Rate and K value***
+  
 ![Screenshot 1](https://github.com/rahul385/Classification-Company_Data/blob/master/Visualizations/ErrorRate_Vs_Kvalue.png)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
