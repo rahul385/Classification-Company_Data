@@ -8,7 +8,9 @@
 
 ## Installation <a name="installation"></a>
 
-All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Classification-Company_Data/blob/master/requirements.txt). To install Run: `pip install -r requirements.txt`
+All the librarires required to run the code are mentioned in [requirements.txt](https://github.com/rahul385/Classification-Company_Data/blob/master/requirements.txt).
+
+To install Run: `pip install -r requirements.txt`
 
 ## Project Overview<a name="project"></a>
 
